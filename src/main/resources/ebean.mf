@@ -1,0 +1,4 @@
+entity-packages: com.example.domain
+querybean-packages: com.example.domain
+transactional-packages: com.example
+profile-location: true
